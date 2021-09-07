@@ -1,6 +1,6 @@
 cask "grain" do
-  version "0.3.2"
-  sha256 "79d04bda10e088326f9ec7a60226d215f1f8fda1b449cc3fa96c44291f93c10f"
+  version "0.4.1"
+  sha256 "732675efa0f3646bd047d1ec4c37cb87b79f5204298176a61c9f5e2004854493"
 
   url "https://github.com/grain-lang/grain/releases/download/grain-v#{version}/grain-mac-x64", verified: "https://github.com/grain-lang/grain/"
   name "The Grain Programming Language"
